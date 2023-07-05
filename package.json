@@ -1,0 +1,15 @@
+{
+    "name": "fluxkart",
+    "version": "1.0.0",
+    "description": "We know that orders on FluxKart.com will always have either an email or phoneNumber in the checkout event.",
+    "author": "",
+    "main": "server.js",
+    "scripts": {
+        "dev": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.16.1",
+        "pg": "^8.11.1"
+    }
+}
